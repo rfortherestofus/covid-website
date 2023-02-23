@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-02-07T10:52:31-08:00"
+    },
+    {
+      "path": "index-static.html",
+      "title": "COVID Website",
+      "description": "Information about COVID rates in the United States over time",
+      "author": [],
+      "contents": "\n\n\n\n\n\n\nCOVID Death Rates as of February 14, 2023\nThis table shows COVID death rates per 100,000 people in four states states.\n\n\nState\n      Death rate\n    Alabama\n0.03Alaska\n0.00Arizona\n0.11Arkansas\n0.16\n\nWe can see this same death rate data for all states on a map.\n\n\n\nCOVID Death Rates Over Time\nThe following chart shows COVID death rates from the start of COVID in early 2020 until February 14, 2023.\n\n\n\n\n\n\n",
+      "last_modified": "2023-02-15T11:12:42-08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "COVID Website",
+      "description": "Information about COVID rates in the United States over time",
+      "author": [],
+      "contents": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "last_modified": "2023-02-14T11:41:10-08:00"
+    }
+  ],
+  "collections": []
+}
